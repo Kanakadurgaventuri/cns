@@ -1,3 +1,9 @@
+/*
+Exp:3(C)
+V.K.Makarajyothi
+23K61A05I7
+28/1/26
+*/
 import java.util.Scanner;
 public class HillCipher {
 	public static void main(String[] args) {
